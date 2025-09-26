@@ -1,3 +1,8 @@
+Quite OK Audio (with unofficial binaries for Windows ARM64/AArch64 + x86-64, fork of [phoboslab/qoa](https://github.com/phoboslab/qoa)).  
+Downloads are hosted at the [releases](https://github.com/theinstantmatrix/qoa/releases) section.
+
+---
+
 ![QOA Logo](https://qoaformat.org/qoa-logo-new.svg)
 
 # QOA - The “Quite OK Audio Format” for fast, lossy audio compression
